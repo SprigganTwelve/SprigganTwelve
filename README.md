@@ -81,10 +81,6 @@ N’hésite pas à me contacter pour collaborer !
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=**TON_NOM_GITHUB**&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**TON_NOM_GITHUB**&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
